@@ -2,6 +2,9 @@
 
 Este repositorio contiene el .exe y los recursos necesarios para un emocionante juego de Tetris. Sumérgete en la nostalgia y la diversión de este clásico juego de rompecabezas mientras intentas encajar las piezas y borrar líneas para obtener la puntuación más alta.
 
+<a href="https://ibb.co/yVpbVKn"><img src="https://i.ibb.co/t3zW3nM/Controles2.png" alt="Controles2" border="0"></a>
+<a href="https://ibb.co/52yJkqT"><img src="https://i.ibb.co/kMfPJYK/Controles.png" alt="Controles" border="0"></a>
+
 ## Características principales
 
 - Juega al clásico juego de Tetris con los controles familiares que conoces y amas.
