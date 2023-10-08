@@ -9,6 +9,11 @@ Este repositorio contiene el .exe y los recursos necesarios para un emocionante 
 - Juega al clásico juego de Tetris con los controles familiares que conoces y amas.
 - Interfaz de usuario intuitiva y atractiva
 - Aplicacion Facil y Practica
+- 
+## Release
+
+Actualemente se encuentra en la version `1.0.16`
+Estare constantemente actualizando
 
 ## Cómo ejecutar el juego
 
