@@ -26,7 +26,7 @@ I will be constantly updating.
 
 ## Contributions
 
-Contributions are welcome! If you have ideas to improve the game or find bugs, feel free to submit a pull request or report issues in the [issues section](https://github.com/yourusername/tetris-game/issues).
+Contributions are welcome! If you have ideas to improve the game or find bugs, feel free to submit a pull request or report issues in the [issues section](https://github.com/fojelio/TetrixGame-App/issues).
 
 ## License
 
