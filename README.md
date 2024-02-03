@@ -1,40 +1,42 @@
 # Tetris Game
 
-Este repositorio contiene el .exe y los recursos necesarios para un emocionante juego de Tetris. Sumérgete en la nostalgia y la diversión de este clásico juego de rompecabezas mientras intentas encajar las piezas y borrar líneas para obtener la puntuación más alta.
+This repository contains the .exe file and necessary resources for an exciting Tetris game. Immerse yourself in the nostalgia and fun of this classic puzzle game as you try to fit the pieces and clear lines to achieve the highest score.
 
-<a href="https://ibb.co/yVpbVKn"><img src="https://i.ibb.co/t3zW3nM/Controles2.png" alt="Controles2" border="0"></a>
-<a href="https://ibb.co/2NWsDPc"><img src="https://i.ibb.co/WtGPbFB/Controles.png" alt="Controles" border="0"></a>
-## Características principales
+![Controles2](https://i.ibb.co/t3zW3nM/Controles2.png)
+![Controles](https://i.ibb.co/WtGPbFB/Controles.png)
 
-- Juega al clásico juego de Tetris con los controles familiares que conoces y amas.
-- Interfaz de usuario intuitiva y atractiva
-- Aplicacion Facil y Practica
+## Key Features
+
+- Play the classic Tetris game with the familiar controls you know and love.
+- Intuitive and appealing user interface.
+- Easy and Practical Application
 
 ---
-  
+
 ## Release
 
-Actualemente se encuentra en la version `1.0.16`
-Estare constantemente actualizando
+Currently, it is in version `1.0.16`.
+I will be constantly updating.
 
-## Cómo ejecutar el juego
+## How to Run the Game
 
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `Tetrix.exe`.
-3. ¡Comienza a jugar! Usa las teclas de flecha para mover y rotar las piezas, y la barra espaciadora para hacerlas caer más rápido.
+1. Clone this repository to your local machine.
+2. Open the `Tetrix.exe` file.
+3. Start playing! Use arrow keys to move and rotate pieces, and the space bar to make them fall faster.
 
-## Contribuciones
+## Contributions
 
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el juego o encontrar errores, no dudes en enviar una solicitud de extracción o informar sobre problemas en el [sección de problemas](https://github.com/tuusuario/tetris-game/issues).
+Contributions are welcome! If you have ideas to improve the game or find bugs, feel free to submit a pull request or report issues in the [issues section](https://github.com/yourusername/tetris-game/issues).
 
-## Licencia
+## License
+
 Copyright (C) 2023 Ian D'Argenio
 
 This program is not free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
+You should have received a copy of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
 ---
 
