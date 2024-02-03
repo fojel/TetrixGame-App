@@ -1,6 +1,6 @@
-# Tetris Game
+# Tetrix Game
 
-This repository contains the .exe file and necessary resources for an exciting Tetris game. Immerse yourself in the nostalgia and fun of this classic puzzle game as you try to fit the pieces and clear lines to achieve the highest score.
+This repository contains the .exe file and necessary resources for an exciting Tetrix game. Immerse yourself in the nostalgia and fun of this classic puzzle game as you try to fit the pieces and clear lines to achieve the highest score.
 
 ![imagen](https://github.com/fojelio/TetrixGame-App/assets/79102693/7afa3f06-6a9c-4bb3-84c5-92709c9ddb37)
 ![imagen](https://github.com/fojelio/TetrixGame-App/assets/79102693/baed169e-101f-47cd-930e-3d46a68f25e8)
